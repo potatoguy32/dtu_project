@@ -1,4 +1,3 @@
 __pycache__/
 data/processed/train.npz
 data/processed/test.npz
-requirements.txt
